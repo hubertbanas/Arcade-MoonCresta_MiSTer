@@ -355,7 +355,6 @@ set_global_assignment -name CDF_FILE jtag.cdf
 set_global_assignment -name QIP_FILE sys/sys.qip
 set_global_assignment -name QIP_FILE sys/vip.qip
 set_global_assignment -name VHDL_FILE ROM/ROM_PGM_0.vhd
-set_global_assignment -name VHDL_FILE ROM/GFX1.vhd
 set_global_assignment -name VHDL_FILE ROM/GALAXIAN_6L.vhd
 set_global_assignment -name VHDL_FILE ROM/GALAXIAN_1K.vhd
 set_global_assignment -name VHDL_FILE ROM/GALAXIAN_1H.vhd
